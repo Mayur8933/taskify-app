@@ -1,0 +1,21 @@
+.projectTitle {
+  display: flex;
+  justify-content: center;
+}
+
+.input {
+  display: flex;
+  justify-content: center;
+}
+
+.todoComp {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.todoList {
+  margin-top: 20px;
+}
